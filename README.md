@@ -1,91 +1,35 @@
 <h1 align="center">Hi 👋, I'm Sushmita Katariya</h1>
-<h3 align="center">Frontend Developer | React & Next.js | Salesforce UI Developer</h3>
 
 <p align="center">
-Building scalable, performance-driven, production-ready web applications
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js;Salesforce+UI+Developer;FAANG+Ready" />
+</p>
+
+<p align="center">
+Building scalable, performance-driven web applications
 </p>
 
 ---
 
 ## 💫 About Me
-
-- 🎓 **B.Tech in Computer Science** (Graduating 2026)  
-- 💼 **Salesforce Developer Intern** — TCS Salesforce by SmartBridge  
-- ⚡ Improved UI efficiency by **40%** using Lightning Web Components  
-- 🤖 Built **AI-powered platforms** using Google Gemini API  
-- 🌱 Learning **Advanced Next.js & System Design**
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn:** https://linkedin.com/in/sushmita-katariya-183926267  
-- 📧 **Email:** sushmitakatariya18@gmail.com  
-- 💻 **GitHub:** https://github.com/Sush0416  
-
----
-
-## 💻 Tech Stack
-
-**Frontend**
-- React.js, Next.js, JavaScript, TypeScript
-- HTML5, CSS3, Tailwind CSS
-
-**Backend & Databases**
-- Node.js, MongoDB, PostgreSQL, MySQL
-- Prisma ORM
-
-**Cloud & Tools**
-- Git, GitHub
-- Vercel, Netlify
-- AWS, Google Cloud
-- Salesforce (LWC, Apex)
+🎓 B.Tech CSE (Graduating 2026)  
+💼 Salesforce Developer Intern — TCS Salesforce  
+⚡ Improved UI efficiency by 40%  
+🤖 AI-powered platforms (Gemini API)
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🌟 AI Career Coach
-- AI-powered career & resume guidance platform  
-- Served **500+ users**  
-- Reduced API latency by **50%**  
-- Tech: React, Next.js, PostgreSQL, Prisma, Gemini API  
-
-🔗 Repo: https://github.com/Sush0416/Career-Coach
-
----
-
-### 🍔 DELISH — Food Delivery App
-- Full-stack food ordering platform  
-- Stripe payment integration  
-- JWT authentication & optimized queries  
-- Tech: React, Node.js, MongoDB  
-
-🔗 Repo: https://github.com/Sush0416/Delish
-
----
-
-### 🏢 PropertyHub CRM
-- Salesforce-based property management system  
-- Managed **300+ listings**  
-- Reduced listing time **10 min → 3 min**  
-- Tech: Salesforce, Apex, LWC  
+- **AI Career Coach** — Next.js + Gemini API  
+- **DELISH** — Food delivery app  
+- **PropertyHub CRM** — Salesforce LWC
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sush0416&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sush0416&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sush0416&show_icons=true)
 
 ---
 
-## 🎯 Career Objective
-
-Aspiring **Frontend / Software Engineer** aiming for  
-**FAANG & top product-based companies**, with focus on  
-**scalable systems, performance optimization & real-world impact**.
-
----
-
-⭐ *If you like my work, consider starring my repositories!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" />
+</p>
