@@ -1,9 +1,8 @@
-<!-- 🔥 HERO HEADER -->
+<!-- 🔥 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:6a11cb,100:2575fc&text=Sushmita%20Katariya&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Sushmita%20Katariya&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ✨ TYPING TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js+Specialist;Salesforce+UI+Developer;AI+Powered+Web+Applications;FAANG+%7C+Product+Company+Ready" />
 </p>
@@ -25,7 +24,7 @@
 ---
 
 <!-- 🔥 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:141E30,100:243B55" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=40" />
 
 ## 🌐 Connect With Me
 
@@ -73,7 +72,7 @@
 ---
 
 <!-- 🔥 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:141E30,100:243B55" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=40" />
 
 ## 🚀 Featured Projects
 
@@ -135,19 +134,17 @@
 ## 🎯 Career Objective
 
 Aspiring **Frontend / Software Engineer** targeting  
-**FAANG & top product-based companies**, with focus on  
+**FAANG & top product-based companies**, with a focus on  
 **scalable systems, performance & real-world impact**.
 
 ---
 
-<!-- 👀 PROFILE VIEWS (FIXED & STABLE) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sush0416&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://visitcount.itsvg.in/api?id=Sush0416&label=Profile%20Views&color=6" />
 </p>
 
-<!-- 🌊 FOOTER WAVE (VISIBLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
 
 ⭐ *If you like my work, consider starring my repositories!*
